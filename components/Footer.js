@@ -67,7 +67,7 @@ function Footer() {
                   className="Footer-main-contact-container-line-img"
                 />
                 <p className="Footer-main-contact-container-line-text">
-                  321 Pikes Place Parkway Seattle, WA 54321
+                  Nobles mot centre, Sunderland Road, Gateshead, NE100NR
                 </p>
               </div>
               <div className="Footer-main-contact-container-line">
@@ -77,7 +77,7 @@ function Footer() {
                   className="Footer-main-contact-container-line-img"
                 />
                 <p className="Footer-main-contact-container-line-text">
-                  (555) 765-4321
+                  +441914692321
                 </p>
               </div>
               <div className="Footer-main-contact-container-line">
