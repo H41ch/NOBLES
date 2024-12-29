@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import Title from './Title';
 import Impactcard from './Impactcard';
 import Button from './Button';
@@ -11,7 +12,7 @@ function Impact() {
             subject="OUR IMPACT"
             title="Nemo enim ipsam voluptatem quia voluptas"
           />
-          <img src="/impact-img.png" alt="" className="Impact-top-img" />
+          <img src="/impact-img.png" alt="Impact image" className="Impact-top-img" />
         </div>
         <div className="Impact-middle">
           <Impactcard img="/oil.svg" title="16k+" description="Oil changes" />
@@ -41,5 +42,12 @@ function Impact() {
     </section>
   );
 }
+
+Impact.propTypes = {
+  subject: PropTypes.string,
+  title: PropTypes.string,
+  img: PropTypes.string,
+  description: PropTypes.string,
+};
 
 export default Impact;
