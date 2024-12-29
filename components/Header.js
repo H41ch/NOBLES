@@ -20,7 +20,7 @@ export default () => {
             <div className="text">
               SERVICE HOURS
               <br />
-              Mon - Sat: 7:00 am - 6:00 pm
+              Mon - Sat: 8:00 am - 5:00 pm
             </div>
           </div>
           <div className="Header-right-section">
