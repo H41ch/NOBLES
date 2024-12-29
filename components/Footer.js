@@ -10,8 +10,7 @@ function Footer() {
               className="Footer-main-section-logo"
             />
             <p className="Footer-main-section-text">
-              This is a blurb about the company sed do eiusmod tempor incididunt
-              ut labore et dolore ex magna aliqua.
+              This is a blurb about the company but I must explain to you how all this mistaken idea of denouncing pleasure
             </p>
             <div className="Footer-main-section-social">
               <a href="" className="Footer-main-section-social-media">
@@ -41,13 +40,7 @@ function Footer() {
                 Specials
               </a>
               <a href="" className="Footer-main-links-container-link">
-                Estimates
-              </a>
-              <a href="" className="Footer-main-links-container-link">
                 Reviews
-              </a>
-              <a href="" className="Footer-main-links-container-link">
-                Shop
               </a>
               <a href="" className="Footer-main-links-container-link">
                 Careers
@@ -67,7 +60,7 @@ function Footer() {
                   className="Footer-main-contact-container-line-img"
                 />
                 <p className="Footer-main-contact-container-line-text">
-                  Nobles mot centre, Sunderland Road, Gateshead, NE100NR
+                  Sunderland Road, Gateshead, NE100NR
                 </p>
               </div>
               <div className="Footer-main-contact-container-line">
@@ -87,7 +80,7 @@ function Footer() {
                   className="Footer-main-contact-container-line-img"
                 />
                 <p className="Footer-main-contact-container-line-text">
-                  Info@company.com
+                  NOBLEMOTCENTRE@GMAIL.COM
                 </p>
               </div>
               <div className="Footer-main-contact-container-line">
@@ -97,7 +90,7 @@ function Footer() {
                   className="Footer-main-contact-container-line-img"
                 />
                 <p className="Footer-main-contact-container-line-text">
-                  Mon - Sat: 7:000 am - 6:00 pm
+                  Monday to Friday: 8:00 am - 5:00 pm
                 </p>
               </div>
             </div>
@@ -107,10 +100,10 @@ function Footer() {
       <div className="Footer-bottom">
         <div className="container">
           <p className="Footer-bottom-left">
-            Tagline lorem ipsum dolor sit amet, consectetur adipiscing eiusmod
+            Tagline but I must explain to you how all this mistaken idea
           </p>
           <p className="Footer-bottom-right">
-            © 2018 Company. <span>Privacy Policy | Terms & Conditions</span>
+            © 2018 Nobles MOT Centre. <span>Privacy Policy | Terms & Conditions</span>
           </p>
         </div>
       </div>
