@@ -6,10 +6,10 @@ function Navigation() {
       <div className="container" id="switch">
         <div className="Navigation-left">
           <Link text="Services" class="expand" />
-          <Link text="Specials" />
-          <Link text="Estimates" />
+          <Link text="MOT BOOKINGs" />
+         
           <Link text="Reviews" />
-          <Link text="Shop" class="expand" />
+      
           <Link text="About" />
         </div>
       </div>
