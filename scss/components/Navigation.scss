@@ -22,7 +22,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
     @include mq {
       flex-direction: row;
       align-items: initial;
@@ -99,7 +98,6 @@
 #switch {
   transition: 0.17s;
   backdrop-filter: blur(5px);
-
   &.switch {
     opacity: 1;
     pointer-events: initial;
