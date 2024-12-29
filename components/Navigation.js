@@ -7,9 +7,7 @@ function Navigation() {
         <div className="Navigation-left">
           <Link text="Services" class="expand" />
           <Link text="MOT BOOKINGs" />
-         
           <Link text="Reviews" />
-      
           <Link text="About" />
         </div>
       </div>
